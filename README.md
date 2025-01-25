@@ -68,5 +68,5 @@ Uma iteração percorre a string do final para o início, concatenando os caract
 ### Passo a Passo
 1. Clone o repositório:
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/arodlima/desafios-target
+   cd desafios-target
